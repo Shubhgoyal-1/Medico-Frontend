@@ -1,0 +1,3 @@
+export * from './common/ProtectedRoute';
+import { ProtectedRoute } from './common/ProtectedRoute';
+export default ProtectedRoute;
